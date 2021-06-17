@@ -34,7 +34,7 @@
 
 1. First step is to clone the repository:
 
-git clone https://github.com/Calculator-dev/number-guessing-game
+git clone https://github.com/Calculator-dev/etch-a-sketch
 
 2. Second step is to install NPM packages:
 
